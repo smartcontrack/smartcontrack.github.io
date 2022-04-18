@@ -7,14 +7,6 @@
 
 ## Fuzzing smart contracts
 
-- ContractFuzzer: Fuzzing Smart Contracts for Vulnerability Detection, [ASE
-  2018](https://ieeexplore.ieee.org/document/9000089), [Arxiv](https://arxiv.org/pdf/1807.03932.pdf), [GitHub](https://github.com/gongbell/ContractFuzzer).
-
-- Harvey: A Greybox Fuzzer for Smart Contracts, [FSE 2020](https://dl.acm.org/doi/abs/10.1145/3368089.3417064), [PDF](https://mariachris.github.io/Pubs/FSE-2020-Harvey.pdf).
-
-- SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow
-  Analyses. (TODO: Fill the information).
-
 - sFuzz: An efficient adaptiv uzz: An efficient adaptive fuzzer for solidity
   smar er for solidity smart contr t contracts. (TODO: Fill the information).
 

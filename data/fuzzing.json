@@ -1,0 +1,30 @@
+{
+  "description": "List of papers on fuzzing smart contracts.",
+  "dataset": [
+    {
+      "paper": "ContractFuzzer: Fuzzing Smart Contracts for Vulnerability Detection",
+      "conference": "ASE",
+      "journal": null,
+      "arxiv": "1807.03932",
+      "year": "2018",
+      "pdf": "https://arxiv.org/pdf/1807.03932.pdf",
+      "source-code": "https://github.com/gongbell/ContractFuzzer"
+    },
+    {
+      "paper": "Harvey: A Greybox Fuzzer for Smart Contracts",
+      "conference": "FSE",
+      "journal": null,
+      "year": "2020",
+      "pdf": "https://mariachris.github.io/Pubs/FSE-2020-Harvey.pdf",
+      "source-code": "TBD"
+    },
+    {
+      "paper": "Smartian: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses",
+      "conference": "TBD",
+      "journal": "TBD",
+      "year": "TBD",
+      "pdf": "TDB",
+      "source-code": "TDB"
+    }
+  ]
+}
