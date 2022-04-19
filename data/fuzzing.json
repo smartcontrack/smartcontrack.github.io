@@ -3,6 +3,7 @@
   "dataset": [
     {
       "paper": "ContractFuzzer: Fuzzing Smart Contracts for Vulnerability Detection",
+      "authors": "",
       "conference": "ASE",
       "journal": null,
       "arxiv": "1807.03932",
@@ -12,17 +13,82 @@
     },
     {
       "paper": "Harvey: A Greybox Fuzzer for Smart Contracts",
+      "authors": "",
       "conference": "FSE",
       "journal": null,
       "year": "2020",
       "pdf": "https://mariachris.github.io/Pubs/FSE-2020-Harvey.pdf",
-      "source-code": "TBD"
+      "source-code": ""
     },
     {
       "paper": "Smartian: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses",
-      "conference": "TBD",
-      "journal": "TBD",
-      "year": "TBD",
+      "authors": "",
+      "conference": "",
+      "journal": "",
+      "year": "",
+      "pdf": "TDB",
+      "source-code": "TDB"
+    },
+    {
+      "paper": "sFuzz: An efficient adaptive fuzzer for solidity smart contracts",
+      "authors": "",
+      "conference": "",
+      "journal": "",
+      "year": "",
+      "pdf": "TDB",
+      "source-code": "TDB"
+    },
+    {
+      "paper": "ETHPLOIT: From Fuzzing to Efficient Exploit Generation against Smart Contracts",
+      "authors": "",
+      "conference": "",
+      "journal": "",
+      "year": "",
+      "pdf": "TDB",
+      "source-code": "TDB"
+    },
+    {
+      "paper": "SynTest-Solidity: Automated Test Case Generation and Fuzzing for Smart Contracts",
+      "authors": "",
+      "conference": "",
+      "journal": "",
+      "year": "",
+      "pdf": "TDB",
+      "source-code": "TDB"
+    },
+    {
+      "paper": "CONFUZZIUS: A Data Dependency-Aware Hybrid Fuzzer for Smart Contracts",
+      "authors": "",
+      "conference": "",
+      "journal": "",
+      "year": "",
+      "pdf": "TDB",
+      "source-code": "TDB"
+    },
+    {
+      "paper": "Towards Smart Hybrid Fuzzing for Smart Contracts",
+      "authors": "",
+      "conference": "",
+      "journal": "",
+      "year": "",
+      "pdf": "TDB",
+      "source-code": "TDB"
+    },
+    {
+      "paper": "A Fuzz Testing Service for Assuring Smart Contracts†",
+      "authors": "",
+      "conference": "",
+      "journal": "",
+      "year": "",
+      "pdf": "TDB",
+      "source-code": "TDB"
+    },
+    {
+      "paper": "Learning to Fuzz from Symbolic Execution with Application to Smart Contracts",
+      "authors": "Jingxuan He, Mislav Balunović, Nodar Ambroladze, Petar Tsankov, and Martin Vechev",
+      "conference": "",
+      "journal": "",
+      "year": "",
       "pdf": "TDB",
       "source-code": "TDB"
     }
