@@ -3,58 +3,57 @@
   "dataset": [
     {
       "paper": "ContractFuzzer: Fuzzing Smart Contracts for Vulnerability Detection",
-      "authors": "",
+      "authors": "Bo Jiang, Ye Liu, W. K. Chan",
       "conference": "ASE",
       "journal": null,
-      "arxiv": "1807.03932",
-      "year": "2018",
+      "year": 2018,
       "pdf": "https://arxiv.org/pdf/1807.03932.pdf",
       "source-code": "https://github.com/gongbell/ContractFuzzer"
     },
     {
       "paper": "Harvey: A Greybox Fuzzer for Smart Contracts",
-      "authors": "",
+      "authors": "Valentin Wüstholz, Maria Christakis",
       "conference": "FSE",
       "journal": null,
-      "year": "2020",
+      "year": 2020,
       "pdf": "https://mariachris.github.io/Pubs/FSE-2020-Harvey.pdf",
       "source-code": ""
     },
     {
       "paper": "Smartian: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses",
-      "authors": "",
-      "conference": "",
-      "journal": "",
-      "year": "",
-      "pdf": "TDB",
-      "source-code": "TDB"
+      "authors": "Jaeseung Choi, Doyeon Kim, Soomin Kim, Gustavo Grieco, Alex Groce, Sang Kil Cha",
+      "conference": "ASE",
+      "journal": null,
+      "year": 2021,
+      "pdf": "https://softsec.kaist.ac.kr/~jschoi/data/ase2021.pdf",
+      "source-code": ""
     },
     {
       "paper": "sFuzz: An efficient adaptive fuzzer for solidity smart contracts",
-      "authors": "",
-      "conference": "",
-      "journal": "",
-      "year": "",
-      "pdf": "TDB",
-      "source-code": "TDB"
+      "authors": "Tai D. Nguyen, Long H. Pham, Jun Sun, Yun Lin, Quang Tran Minh",
+      "conference": "ICSE",
+      "journal": null,
+      "year": 2020,
+      "pdf": "https://arxiv.org/pdf/2004.08563.pdf",
+      "source-code": ""
     },
     {
       "paper": "ETHPLOIT: From Fuzzing to Efficient Exploit Generation against Smart Contracts",
-      "authors": "",
-      "conference": "",
-      "journal": "",
-      "year": "",
-      "pdf": "TDB",
-      "source-code": "TDB"
+      "authors": "Qingzhao Zhang, Yizhuo Wang, Juanru Li, Siqi Ma",
+      "conference": "SANER",
+      "journal": null,
+      "year": 2020,
+      "pdf": "https://siqima.me/publications/saner20b.pdf",
+      "source-code": ""
     },
     {
       "paper": "SynTest-Solidity: Automated Test Case Generation and Fuzzing for Smart Contracts",
-      "authors": "",
-      "conference": "",
+      "authors": "Mitchell Olsthoorn, D.M. Stallenberg, A. van Deursen, A. Panichella",
+      "conference": "ICSE, Demo Track",
       "journal": "",
-      "year": "",
-      "pdf": "TDB",
-      "source-code": "TDB"
+      "year": 2022,
+      "pdf": "",
+      "source-code": "https://github.com/syntest-framework/syntest-solidity"
     },
     {
       "paper": "CONFUZZIUS: A Data Dependency-Aware Hybrid Fuzzer for Smart Contracts",
@@ -62,8 +61,8 @@
       "conference": "",
       "journal": "",
       "year": "",
-      "pdf": "TDB",
-      "source-code": "TDB"
+      "pdf": "",
+      "source-code": ""
     },
     {
       "paper": "Towards Smart Hybrid Fuzzing for Smart Contracts",
@@ -71,8 +70,8 @@
       "conference": "",
       "journal": "",
       "year": "",
-      "pdf": "TDB",
-      "source-code": "TDB"
+      "pdf": "",
+      "source-code": ""
     },
     {
       "paper": "A Fuzz Testing Service for Assuring Smart Contracts†",
@@ -80,8 +79,8 @@
       "conference": "",
       "journal": "",
       "year": "",
-      "pdf": "TDB",
-      "source-code": "TDB"
+      "pdf": "",
+      "source-code": ""
     },
     {
       "paper": "Learning to Fuzz from Symbolic Execution with Application to Smart Contracts",
@@ -89,8 +88,8 @@
       "conference": "",
       "journal": "",
       "year": "",
-      "pdf": "TDB",
-      "source-code": "TDB"
+      "pdf": "",
+      "source-code": ""
     }
   ]
 }
